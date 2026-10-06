@@ -423,22 +423,6 @@ Through this project, I worked on:
 
 ---
 
-## 🔮 Future Improvements
-
-Possible improvements include:
-
-- Use a dedicated validation set during model development and reserve the test set strictly for final evaluation
-- Add precision, recall and F1-score for every emotion class
-- Add a classification report
-- Improve error analysis for misclassified emotions
-- Experiment with pretrained Transformer models such as BERT
-- Add API input validation and structured response schemas
-- Add automated tests for the API
-- Add a frontend interface for interactive emotion prediction
-- Add CI/CD for automated deployment
-
----
-
 ## 👨‍💻 Project
 
 **End-to-End NLP Emotion Classification with Deep Learning, FastAPI & Deployment**
